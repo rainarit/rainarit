@@ -8,7 +8,6 @@
 
 📊 **This week I spent my time on** 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rainarit)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Quick overview
 * GitHub stats:  
