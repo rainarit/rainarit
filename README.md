@@ -6,7 +6,7 @@ I currently work at IBM in collaboration with UCSD as a researcher in their Arti
 
 At UCSD, I am a research assistant at de Sa Lab where I'm working on computer vision perception.
 
-📊 **This week I spent my time on**
+📊 **This week I spent my time on** 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rainarit)](https://github.com/anuraghazra/github-readme-stats)
 
