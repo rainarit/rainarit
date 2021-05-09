@@ -6,4 +6,4 @@
 - 💬 You can get in touch with me by email at [rraina@ucsd.edu](mailto:rraina@ucsd.edu), Twitter ([@ritikr_](https://twitter.com/ritik_r)), and [LinkedIn](https://www.linkedin.com/in/ritikraina/).
 - 📌 To know more, check out my [portfolio](https://ritik.xyz)!
 
-
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=rainarit&hide_title=true&hide_border=true&langs_count=5)
