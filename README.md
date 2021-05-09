@@ -8,7 +8,7 @@ At UCSD, I am a research assistant at de Sa Lab where I'm working on computer vi
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=rainarit&hide_title=true&hide_border=true&langs_count=5)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rainarit)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Quick overview
 * GitHub stats:  
