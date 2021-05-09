@@ -1,10 +1,38 @@
 ## Hello, I'm Ritik Raina! 👋
 
-I am a junior at UC San Diego pursuing a B.S. in Cognitive Science with a Specialization in Machine Learning & Neural Computation. 
+- 🔭 I'm a consultant at [Warpnet B.V.](https://warpnet.nl) with over five years of **SRE** and **DevOps** experience at various companies like [DUO](https://duo.nl/) and [KPN](https://www.kpn.com/).
+- 🌱 I've made several [contributions to open source](https://github.com/roaldnefs), to tools such as [SaltStack](https://github.com/saltstack/salt/pulls?q=is%3Apr+author%3Aroaldnefs), [Prometheus](https://github.com/prometheus/client_golang/pulls?q=is%3Apr+author%3Aroaldnefs), [rfcat](https://github.com/atlas0fd00m/rfcat/pulls?q=is%3Apr+author%3Aroaldnefs) and [many more](https://github.com/roaldnefs).
+- ⚡ Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
+- 💬 You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldnefs.com) ([PGP](https://roaldnefs.com/roaldnefs-2020.asc)), Twitter ([@roaldnefs](https://twitter.com/roaldnefs)), and [LinkedIn](https://www.linkedin.com/in/roaldnefs/).
 
-I currently work at IBM in collaboration with UCSD as a researcher in their Artificial Intelligence for Healthy Living (AIHL) program. I have recently joined the MIT Computer Science & Artificial Intelligence Lab as a visiting research scholar where I'll be working on multi-agent social intelligence. 
+### Work Experience
+In the overview below you will find my most recent work experience:
 
-At UCSD, I am a research assistant at de Sa Lab where I'm working on computer vision perception.
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://warpnet.nl/)
+
+**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
+[**Warpnet**](https://warpnet.nl/) • Full-time \
+Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
+Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1628121600&v=beta&t=zE5GVEWZgrkYNjpoQOeVxoUK0yPe6JWdf8NglmFVb_M"/>](https://www.kpn.com/)
+
+**DevOps Engineer** \
+[**KPN**](https://www.kpn.com/) • Contract \
+Languages & Technologies: `RHEL`, `Python`, `Ansible`\
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1628121600&v=beta&t=9HsJYd8N41Tp_gE9zDgXRpsLcbsM1PZr62zfeUy699g"/>](https://duo.nl/)
+
+**DevOps Engineer** \
+[**DUO**](https://duo.nl/) • Contract \
+Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
+<br/>
+<br/>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
 
 📊 **This week I spent my time on** 
 
